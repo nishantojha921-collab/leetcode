@@ -45,6 +45,7 @@
 | [0039-combination-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nishantojha921-collab/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/nishantojha921-collab/leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/nishantojha921-collab/leetcode/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishantojha921-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Union-Find
@@ -75,8 +76,13 @@
 | [0039-combination-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nishantojha921-collab/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/nishantojha921-collab/leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0090-subsets-ii) |
 ## String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nishantojha921-collab/leetcode/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
