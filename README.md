@@ -50,6 +50,7 @@
 | [0136-single-number](https://github.com/nishantojha921-collab/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/nishantojha921-collab/leetcode/tree/master/0260-single-number-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishantojha921-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Union-Find
 |  |
@@ -97,4 +98,13 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
