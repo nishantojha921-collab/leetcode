@@ -53,6 +53,7 @@
 | [0260-single-number-iii](https://github.com/nishantojha921-collab/leetcode/tree/master/0260-single-number-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishantojha921-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0494-target-sum) |
 | [0994-rotting-oranges](https://github.com/nishantojha921-collab/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -85,6 +86,7 @@
 | [0079-word-search](https://github.com/nishantojha921-collab/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
@@ -102,12 +104,15 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
