@@ -46,6 +46,7 @@
 | [0039-combination-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nishantojha921-collab/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/nishantojha921-collab/leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nishantojha921-collab/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/nishantojha921-collab/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/nishantojha921-collab/leetcode/tree/master/0136-single-number) |
@@ -127,4 +128,16 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nishantojha921-collab/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nishantojha921-collab/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nishantojha921-collab/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nishantojha921-collab/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
