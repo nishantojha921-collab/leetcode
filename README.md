@@ -28,6 +28,7 @@
 | [0207-course-schedule](https://github.com/nishantojha921-collab/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nishantojha921-collab/leetcode/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishantojha921-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/nishantojha921-collab/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -52,6 +53,7 @@
 | [0136-single-number](https://github.com/nishantojha921-collab/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/nishantojha921-collab/leetcode/tree/master/0260-single-number-iii) |
+| [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishantojha921-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0494-target-sum) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nishantojha921-collab/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -115,6 +118,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -144,4 +148,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nishantojha921-collab/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
