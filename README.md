@@ -27,6 +27,7 @@
 | [0130-surrounded-regions](https://github.com/nishantojha921-collab/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/nishantojha921-collab/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/nishantojha921-collab/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishantojha921-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/nishantojha921-collab/leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -123,6 +125,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0494-target-sum) |
@@ -157,6 +160,7 @@
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0518-coin-change-ii) |
 ## Hash Table
@@ -179,4 +183,8 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nishantojha921-collab/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Math
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
