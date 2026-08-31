@@ -102,6 +102,7 @@
 | ------- |
 | [0079-word-search](https://github.com/nishantojha921-collab/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
+| [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0518-coin-change-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nishantojha921-collab/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1049-last-stone-weight-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
