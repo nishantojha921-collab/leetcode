@@ -101,6 +101,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/nishantojha921-collab/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nishantojha921-collab/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -115,6 +116,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/nishantojha921-collab/leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
