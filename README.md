@@ -65,6 +65,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nishantojha921-collab/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0994-rotting-oranges](https://github.com/nishantojha921-collab/leetcode/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nishantojha921-collab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nishantojha921-collab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Longest Common Subsequence
 |  |
 | ------- |
