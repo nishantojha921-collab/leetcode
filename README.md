@@ -108,6 +108,7 @@
 | [0242-valid-anagram](https://github.com/nishantojha921-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nishantojha921-collab/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/nishantojha921-collab/leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
@@ -131,6 +132,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/nishantojha921-collab/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/nishantojha921-collab/leetcode/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nishantojha921-collab/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1049-last-stone-weight-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishantojha921-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/nishantojha921-collab/leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
