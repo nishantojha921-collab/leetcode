@@ -110,6 +110,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/nishantojha921-collab/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/nishantojha921-collab/leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishantojha921-collab/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nishantojha921-collab/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1049-last-stone-weight-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishantojha921-collab/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Knapsack Problem
 |  |
 | ------- |
