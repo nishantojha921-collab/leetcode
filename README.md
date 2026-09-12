@@ -64,6 +64,7 @@
 | [0518-coin-change-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0518-coin-change-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nishantojha921-collab/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nishantojha921-collab/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0877-stone-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/nishantojha921-collab/leetcode/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishantojha921-collab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -137,6 +138,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/nishantojha921-collab/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/nishantojha921-collab/leetcode/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nishantojha921-collab/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0877-stone-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishantojha921-collab/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
+| [0877-stone-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishantojha921-collab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Longest Common Subsequence
 |  |
@@ -228,4 +231,16 @@
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/nishantojha921-collab/leetcode/tree/master/0647-palindromic-substrings) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
