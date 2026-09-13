@@ -67,6 +67,7 @@
 | [0877-stone-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/nishantojha921-collab/leetcode/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/nishantojha921-collab/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishantojha921-collab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
@@ -140,6 +141,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/nishantojha921-collab/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/nishantojha921-collab/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nishantojha921-collab/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Knapsack Problem
@@ -169,10 +171,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nishantojha921-collab/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/nishantojha921-collab/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nishantojha921-collab/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/nishantojha921-collab/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -192,6 +196,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nishantojha921-collab/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/nishantojha921-collab/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -243,4 +248,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0877-stone-game) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/nishantojha921-collab/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
