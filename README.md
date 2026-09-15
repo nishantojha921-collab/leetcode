@@ -19,6 +19,7 @@
 | [0210-course-schedule-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nishantojha921-collab/leetcode/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishantojha921-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/nishantojha921-collab/leetcode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0310-minimum-height-trees](https://github.com/nishantojha921-collab/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishantojha921-collab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/nishantojha921-collab/leetcode/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/nishantojha921-collab/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/nishantojha921-collab/leetcode/tree/master/0130-surrounded-regions) |
+| [0684-redundant-connection](https://github.com/nishantojha921-collab/leetcode/tree/master/0684-redundant-connection) |
 ## Matrix
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 | [0207-course-schedule](https://github.com/nishantojha921-collab/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nishantojha921-collab/leetcode/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/nishantojha921-collab/leetcode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
