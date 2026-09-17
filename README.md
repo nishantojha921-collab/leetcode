@@ -111,6 +111,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/nishantojha921-collab/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nishantojha921-collab/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/nishantojha921-collab/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/nishantojha921-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishantojha921-collab/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -239,6 +240,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/nishantojha921-collab/leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/nishantojha921-collab/leetcode/tree/master/0647-palindromic-substrings) |
 ## Minimax
 |  |
