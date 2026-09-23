@@ -55,6 +55,7 @@
 | [0130-surrounded-regions](https://github.com/nishantojha921-collab/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/nishantojha921-collab/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/nishantojha921-collab/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishantojha921-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/nishantojha921-collab/leetcode/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/nishantojha921-collab/leetcode/tree/master/0312-burst-balloons) |
@@ -195,6 +196,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nishantojha921-collab/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nishantojha921-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nishantojha921-collab/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Greedy
@@ -209,6 +211,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nishantojha921-collab/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishantojha921-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/nishantojha921-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nishantojha921-collab/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -231,6 +234,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nishantojha921-collab/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/nishantojha921-collab/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishantojha921-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
@@ -258,4 +262,12 @@
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nishantojha921-collab/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nishantojha921-collab/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nishantojha921-collab/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
