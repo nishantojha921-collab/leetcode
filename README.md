@@ -57,6 +57,7 @@
 | [0137-single-number-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/nishantojha921-collab/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishantojha921-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nishantojha921-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/nishantojha921-collab/leetcode/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/nishantojha921-collab/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nishantojha921-collab/leetcode/tree/master/0322-coin-change) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishantojha921-collab/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nishantojha921-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nishantojha921-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nishantojha921-collab/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Greedy
@@ -213,6 +215,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/nishantojha921-collab/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishantojha921-collab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nishantojha921-collab/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nishantojha921-collab/leetcode/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nishantojha921-collab/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Heap (Priority Queue)
