@@ -49,6 +49,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/nishantojha921-collab/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nishantojha921-collab/leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/nishantojha921-collab/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nishantojha921-collab/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/nishantojha921-collab/leetcode/tree/master/0090-subsets-ii) |
@@ -133,6 +134,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/nishantojha921-collab/leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nishantojha921-collab/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/nishantojha921-collab/leetcode/tree/master/0279-perfect-squares) |
@@ -204,6 +206,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nishantojha921-collab/leetcode/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nishantojha921-collab/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/nishantojha921-collab/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Sliding Window
